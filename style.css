@@ -45,6 +45,13 @@ body {
   background: rgb(216, 208, 208);
   list-style: square;
 }
+.error {
+  background: red;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  margin: 5px 0 5px 0;
+}
 
 @media (min-width: 900px) {
   #form {
