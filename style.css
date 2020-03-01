@@ -43,7 +43,9 @@ body {
 }
 #users li {
   background: rgb(216, 208, 208);
-  list-style: square;
+  list-style: none;
+  margin-top: 2px;
+  text-align: center;
 }
 .error {
   background: red;
